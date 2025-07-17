@@ -41,6 +41,9 @@ No internet connection needed for transcription
 ## 🚀 Try It Now
 Hit the Download button and start captioning smarter, faster, and safer — right on your Mac.
 
+<a href="https://www.buymeacoffee.com/danilofiumi" target="_blank">
+	<img style="width:200px;" class="h-full w-full" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee"></a>
+
 # License
 All rights reserved.
 
